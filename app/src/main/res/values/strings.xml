@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AutoSense India</string>
+    <string name="submit">Login</string>
+    <string name="password">Password</string>
+    <string name="user_name">User name</string>
+    <string name="char_description">Employee Salaries</string>
+
+
+    <string name="maps_api_key">AIzaSyBXFeHw7yhGwbjPLy0g6eTx2XCph_kuytI</string>
+
+    <string name="about_autosense">
+        <b>We live in interesting, mercurial times.</b>\n\n
+        Technology is changing everything – and every day, technology itself changes. Cross-industry innovation in offerings by companies like Amazon and Uber and an increasing emphasis on pleasurable end-user experience has led to consumers expecting a high quality of instant gratification.\n\n
+        Additionally, consumer needs are changing – the young and tech-savvy consumer of today skews towards affordability, savings, environmental as well as personal safety and accessibility. Developments like connected vehicles, autonomous driving, shared mobility and electrification has not just disrupted the way things are - but changed them forever.\n\n
+        Autosense is the only service provider that can help businesses in the automotive industry not just survive the next few years, but thrive - with specific, data-backed insights for successful marketing. From strategy and consulting to business accelerator platforms and services and Google member partnerships, we offer complex solutions that help clients merge ecosystems, achieve cross-functional mobility and hit moving targets.\n\n
+        At Autosense, data is the force behind every idea and decision – we use data-centred technology to draw client-centred insights. Our data-based strategic thinking leads to end-customer breakthroughs. We also harness big data can help make big service leaps.\n\n
+        Autosense develops products and services for Original Equipment Manufacturers (OEMs), Original Equipment Suppliers (OESs) corporate dealerships, online marketplaces, parts and accessories retailers, private garage mechanics, fleet service providers, auto finance or insurance service providers and aftermarket service providers. Our end-to-end demand chain solutions help fuel sustainable engagement.\n\n\n\n
+        Headquartered in Bangalore, we are a team of over 250, with engineers, marketers, consultants, creative strategists and customer experience specialists across our offices. Our core team of industry experts not only understands the dead heat of the automotive market, but knows how to help businesses get ahead, time and time again.
+    </string>
+
+</resources>
